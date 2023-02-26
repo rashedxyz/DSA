@@ -25,6 +25,6 @@ const numbers = [4, 6, 8, 9, 7, 2, 1];
 // target to find
 const targetToFind = 9;
 
-linearSearch(numbers, targetToFind);
+linearSearch(numbers, targetToFind); // returns 3
 
 
